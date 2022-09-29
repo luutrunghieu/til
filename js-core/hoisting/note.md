@@ -2,7 +2,7 @@ var, let, cost
 
 - Scope
 
-* var: global scope
+* var: function scope
 * let, const: block scope
 
 - hoisting:
